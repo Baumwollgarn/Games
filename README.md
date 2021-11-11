@@ -1,2 +1,2 @@
 # Welcome! 
-This repository includes some simple JavaScript games.
+This repository includes every program I wrote...
